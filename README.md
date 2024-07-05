@@ -11,7 +11,7 @@ This repository contains a simple Python program that allows users to access two
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/financial-calculators.git
+    [git clone https://github.com/yourusername/financial-calculators.git](https://github.com/Oarabile24/Calculator.git)
     cd financial-calculators
     ```
 
