@@ -55,6 +55,12 @@ This repository contains a simple Python program that allows users to access two
 
 - Python 3.x
 
+# Screenshot
+![Screenshot (7)](https://github.com/Oarabile24/Calculator/assets/169250085/dc41c49f-f258-4bb2-b4f4-b0784c7e523c)
+
+![Screenshot (8)](https://github.com/Oarabile24/Calculator/assets/169250085/a1aef58a-6005-4539-8232-fcd24170cc92)
+
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
